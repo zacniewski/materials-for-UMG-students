@@ -5,11 +5,11 @@
 
 
 ---
-### Lab 1 - [Dodawanie dwóch liczb w asemblerze](https://github.com/zacniewski/materials-for-UMG-students/tree/master/ASK_LAB)  
+### Projekt nr 1 - [Dodawanie dwóch liczb w asemblerze](https://github.com/zacniewski/materials-for-UMG-students/tree/master/ASK_LAB)  
 
 ---
-### Lab 2 - [Podstawowe komponenty Windows Forms Application](https://github.com/zacniewski/materials-for-UMG-students/tree/master/WFA1)  
+### Projekt nr 2 - [Podstawowe komponenty Windows Forms Application](https://github.com/zacniewski/materials-for-UMG-students/tree/master/WFA1)  
 
 ---
-### Lab 3 - [Prosty filtr cyfrowy](https://github.com/zacniewski/materials-for-UMG-students/tree/master/Lab3)  
+### Projekt nr 3 - [Prosty filtr cyfrowy](https://github.com/zacniewski/materials-for-UMG-students/tree/master/Lab3)  
 
