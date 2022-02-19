@@ -11,5 +11,5 @@
 ### Projekt nr 2 - [Podstawowe komponenty Windows Forms Application](https://github.com/zacniewski/materials-for-UMG-students/tree/main/WFA1)  
 
 ---
-### Projekt nr 3 - [Prosty filtr cyfrowy](https://github.com/zacniewski/materials-for-UMG-students/tree/main/Lab3)  
+### Projekt nr 3 - [Prosty filtr cyfrowy](https://github.com/zacniewski/materials-for-UMG-students/tree/main/MATLAB-filters)  
 
