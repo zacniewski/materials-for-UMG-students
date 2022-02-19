@@ -1,6 +1,6 @@
 # Aplikacje startowe do wybranych laboratoriów
 
-**Autor**: Artur Zacniewski
+**Autor**: Artur Zacniewski  
 **Grupy**: **EiT** (II i IV sem.), **Inf.** (II sem.)  
 
 
