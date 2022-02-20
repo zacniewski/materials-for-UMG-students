@@ -1,4 +1,4 @@
-# Aplikacje startowe do wybranych laboratoriów
+# Przykładowe aplikacje do wybranych laboratoriów
 
 **Autor**: Artur Zacniewski  
 **Grupy**: **EiT** (II i IV sem.), **Inf.** (II sem.)  
