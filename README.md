@@ -11,6 +11,9 @@
 ### Projekt nr 1a - [Dodawanie dwóch liczb w asemblerze](https://github.com/zacniewski/materials-for-UMG-students/tree/main/ASK_LAB/Lab1/Lab1.asm)  
 
 ---
+### Projekt nr 1b - [Dodawanie dwóch zmiennych w asemblerze](https://github.com/zacniewski/materials-for-UMG-students/tree/main/ASK_LAB/Lab1/AddVariables.asm)  
+
+---
 ### Projekt nr 2 - [Podstawowe komponenty Windows Forms Application](https://github.com/zacniewski/materials-for-UMG-students/tree/main/WFA1)  
 
 ---
