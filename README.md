@@ -17,5 +17,9 @@
 ### Projekt nr 2 - [Podstawowe komponenty Windows Forms Application](https://github.com/zacniewski/materials-for-UMG-students/tree/main/WFA1)  
 
 ---
+### Projekt nr 2a - [Kalkulator w wersji konsolowej w języku C#](https://github.com/zacniewski/materials-for-UMG-students/tree/main/ConsoleCalculator)  
+
+
+---
 ### Projekt nr 3 - [Prosty filtr cyfrowy](https://github.com/zacniewski/materials-for-UMG-students/tree/main/MATLAB-filters)  
 
