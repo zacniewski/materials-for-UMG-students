@@ -1,1 +1,0 @@
-#### Metodyka Programowania - kalkulator konsolowy
