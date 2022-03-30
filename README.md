@@ -22,6 +22,8 @@
 ---
 ### Projekt nr 2b - [Program do obliczania pierwiastków r-nia kwadratowego w wersji WFA](https://github.com/zacniewski/materials-for-UMG-students/tree/main/QuadraticEquationSolver)  
 
+---
+### Projekt nr 2c - [Test matematyczny w wersji WFA](https://github.com/zacniewski/materials-for-UMG-students/tree/main/MathQuiz)  
 
 
 ---
