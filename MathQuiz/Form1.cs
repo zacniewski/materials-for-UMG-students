@@ -117,8 +117,8 @@ namespace MathQuiz
                 // got the answer right. Stop the timer  
                 // and show a MessageBox.
                 timer1.Stop();
-                MessageBox.Show("You got all the answers right!",
-                                "Congratulations!");
+                MessageBox.Show("Wszystkie odpowiedzi poprawne!",
+                                "Gratulacje!");
                 startButton.Enabled = true;
             }
             else if (timeLeft > 0)
@@ -128,20 +128,37 @@ namespace MathQuiz
                 // display the new time left by updating the 
                 // Time Left label.
                 timeLeft = timeLeft - 1;
-                timeLabel.Text = timeLeft + " seconds";
+                timeLabel.Text = timeLeft + " sekund";
+                if (timeLeft < 6)
+                {
+                    timeLabel.BackColor = Color.Red;
+                }
             }
+            
             else
             {
                 // If the user ran out of time, stop the timer, show
                 // a MessageBox, and fill in the answers.
                 timer1.Stop();
-                timeLabel.Text = "Time's up!";
-                MessageBox.Show("You didn't finish in time.", "Sorry!");
+                timeLabel.Text = "Koniec czasu!";
+                MessageBox.Show("Nie skończyłeś na czas!", "Przykro mi!");
                 sum.Value = addend1 + addend2;
                 difference.Value = minuend - subtrahend;
                 product.Value = multiplicand * multiplier;
                 quotient.Value = dividend / divisor;
                 startButton.Enabled = true;
+            }
+        }
+
+        private void answer_Enter(object sender, EventArgs e)
+        {
+            // Select the whole answer in the NumericUpDown control.
+            NumericUpDown answerBox = sender as NumericUpDown;
+
+            if (answerBox != null)
+            {
+                int lengthOfAnswer = answerBox.Value.ToString().Length;
+                answerBox.Select(0, lengthOfAnswer);
             }
         }
     }
