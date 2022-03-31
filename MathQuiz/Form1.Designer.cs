@@ -279,6 +279,7 @@
             this.startButton.TabIndex = 0;
             this.startButton.Text = "Rozpocznij test";
             this.startButton.UseVisualStyleBackColor = true;
+            this.startButton.Click += new System.EventHandler(this.startButton_Click);
             // 
             // Form1
             // 
