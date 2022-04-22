@@ -25,6 +25,8 @@
 ---
 ### Projekt nr 2c - [Test matematyczny w wersji WFA](https://github.com/zacniewski/materials-for-UMG-students/tree/main/MathQuiz)  
 
+---
+### Projekt nr 2d - [Przeglądarka obrazków w języku C#](https://github.com/zacniewski/materials-for-UMG-students/tree/main/PictureViewer)  
 
 ---
 ### Projekt nr 3 - [Prosty filtr cyfrowy](https://github.com/zacniewski/materials-for-UMG-students/tree/main/MATLAB-filters)  
